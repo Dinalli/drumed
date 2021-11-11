@@ -1,0 +1,6 @@
+framework module Pods_Drumed_DrumedUITests {
+  umbrella header "Pods-Drumed-DrumedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

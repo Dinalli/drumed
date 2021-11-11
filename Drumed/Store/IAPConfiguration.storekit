@@ -1,0 +1,75 @@
+{
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "45847215",
+      "localizations" : [
+
+      ],
+      "name" : "DrumedSubscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "95FFB433",
+          "introductoryOffer" : {
+            "internalID" : "52A42E0A",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "English UK",
+              "displayName" : "English UK",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "com.armsreach.drumed.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "monthly",
+          "subscriptionGroupID" : "45847215",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F6B0E7B5",
+          "introductoryOffer" : {
+            "internalID" : "51F17B69",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3M"
+          },
+          "localizations" : [
+            {
+              "description" : "English UK",
+              "displayName" : "English UK",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "com.armsreach.drumed.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "yearly",
+          "subscriptionGroupID" : "45847215",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}

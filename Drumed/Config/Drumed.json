@@ -1,0 +1,355 @@
+[
+    {
+        "Section": "Pop",
+        "LoopName": "POP1",
+        "BPM":"130 bpm",
+        "Icon":"Pop",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop1sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop1eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop1quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop1kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop1track.caf"
+                ],
+        "Files": [
+            "pop1sixteenth.caf",
+            "pop1eighth.caf",
+            "pop1quarter.caf",
+            "pop1kit.caf",
+            "pop1track.caf"
+        ]
+    },
+    {
+        "Section": "Pop",
+        "LoopName": "POP2",
+        "BPM":"75 bpm",
+        "Icon":"Pop",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop2sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop2eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop2quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop2kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop2track.caf"
+                ],
+        "Files": [
+            "pop2sixteenth.caf",
+            "pop2eighth.caf",
+            "pop2quarter.caf",
+            "pop2kit.caf",
+            "pop2track.caf"
+        ]
+    },
+    {
+        "Section": "Reggae",
+        "LoopName": "Reggae 1",
+        "BPM":"88 bpm",
+        "Icon":"Reggae",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae1sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae1eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae1quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae1kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae1track.caf"
+                ],
+        "Files": [
+            "reggae1sixteenth.caf",
+            "reggae1eighth.caf",
+            "reggae1quarter.caf",
+            "reggae1kit.caf",
+            "reggae1track.caf"
+        ]
+    },
+    {
+        "Section": "Reggae",
+        "LoopName": "Reggae 2",
+        "BPM":"80 bpm",
+        "Icon":"Reggae",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae2sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae2eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae2quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae2kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/reggae2track.caf"
+                ],
+        "Files": [
+            "reggae2sixteenth.caf",
+            "reggae2eighth.caf",
+            "reggae2quarter.caf",
+            "reggae2kit.caf",
+            "reggae2track.caf"
+        ]
+    },
+    {
+        "Section": "Rock",
+        "LoopName": "Rock 1",
+        "BPM":"71 bpm",
+        "Icon":"Rock",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock1sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock1eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock1quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock1kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock1track.caf"
+                ],
+        "Files": [
+            "rock1sixteenth.caf",
+            "rock1eighth.caf",
+            "rock1quarter.caf",
+            "rock1kit.caf",
+            "rock1track.caf"
+        ]
+    },
+    {
+        "Section": "Rock",
+        "LoopName": "Rock 2",
+        "BPM":"144 bpm",
+        "Icon":"Rock",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock2sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock2eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock2quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock2kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock2track.caf"
+                ],
+        "Files": [
+            "rock2sixteenth.caf",
+            "rock2eighth.caf",
+            "rock2quarter.caf",
+            "rock2kit.caf",
+            "rock2track.caf"
+        ]
+    },
+    {
+        "Section": "Rock",
+        "LoopName": "Rock 3",
+        "BPM":"86 bpm",
+        "Icon":"Rock",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock3sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock3eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock3quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock3kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock3track.caf"
+                ],
+        "Files": [
+            "rock3sixteenth.caf",
+            "rock3eighth.caf",
+            "rock3quarter.caf",
+            "rock3kit.caf",
+            "rock3track.caf"
+        ]
+    },
+    {
+        "Section": "Alt",
+        "LoopName": "Alt 1",
+        "BPM":"90 bpm",
+        "Icon":"Alternative",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt1sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt1eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt1quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt1kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt1track.caf"
+                ],
+        "Files": [
+            "alt1sixteenth.caf",
+            "alt1eighth.caf",
+            "alt1quarter.caf",
+            "alt1kit.caf",
+            "alt1track.caf"
+        ]
+    },
+    {
+        "Section": "Alt",
+        "LoopName": "Alt 2",
+        "BPM":"82 bpm",
+        "Icon":"Alternative",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt2sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt2eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt2quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt2kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt2track.caf"
+                ],
+        "Files": [
+            "alt2sixteenth.caf",
+            "alt2eighth.caf",
+            "alt2quarter.caf",
+            "alt2kit.caf",
+            "alt2track.caf"
+        ]
+    },
+    {
+        "Section": "Blues",
+        "LoopName": "Blues 1",
+        "BPM":"88 bpm",
+        "Icon":"Blues",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": false,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/blues1sixteenth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/blues1eighth.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/blues1quarter.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/blues1kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/blues1track.caf"
+                ],
+        "Files": [
+            "blues1sixteenth.caf",
+            "blues1eighth.caf",
+            "blues1quarter.caf",
+            "blues1kit.caf",
+            "blues1track.caf"
+        ]
+    },
+    {
+        "Section": "Alt",
+        "LoopName": "Alt 3",
+        "BPM":"88 bpm",
+        "Icon":"Alternative",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+3/alt+3-+16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+3/alt+3-+8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+3/alt+3-+quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+3/alt+3-+kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+3/alt+3-+track.caf"
+                ],
+        "Files": [
+            "alt+3-+16th+shaker.caf",
+            "alt+3-+8th+tambo.caf",
+            "alt+3-+quarter+click.caf",
+            "alt+3-+kit.caf",
+            "alt+3-+track.caf"
+        ]
+    },
+    {
+        "Section": "Rock",
+        "LoopName": "Rock 4",
+        "BPM":"88 bpm",
+        "Icon":"Rock",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+4/rock+4-16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+4/rock+4-8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+4/rock+4-quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+4/rock+4-kit+sw.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+4/rock+4-track.caf"
+                ],
+        "Files": [
+            "rock+4-16th+shaker.caf",
+            "rock+4-8th+tambo.caf",
+            "rock+4-quarter+click.caf",
+            "rock+4-kit+sw.caf",
+            "rock+4-track.caf"
+        ]
+    },
+    {
+        "Section": "Pop",
+        "LoopName": "Pop 3",
+        "BPM":"88 bpm",
+        "Icon":"Pop",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop3/pop+3-16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop3/pop+3-8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop3/pop+3-quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop3/pop+3+kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/pop3/pop+3-track.caf"
+                ],
+        "Files": [
+            "pop+3-16th+shaker.caf",
+            "pop+3-8th+tambo.caf",
+            "pop+3-quarter+click.caf",
+            "pop+3+kit.caf",
+            "pop+3-track.caf"
+        ]
+    },
+
+    {
+        "Section": "Rock",
+        "LoopName": "Rock 5",
+        "BPM":"88 bpm",
+        "Icon":"Rock",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+5/rock+5-16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+5/rock+5-8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+5/rock+5-quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+5/rock+5-kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/rock+5/rock+5-track.caf"
+                ],
+        "Files": [
+            "rock+5-16th+shaker.caf",
+            "rock+5-8th+tambo.caf",
+            "rock+5-quarter+click.caf",
+            "rock+5-kit.caf",
+            "rock+5-track.caf"
+        ]
+    },
+    {
+        "Section": "Alt",
+        "LoopName": "Alt 4",
+        "BPM":"88 bpm",
+        "Icon":"Alternative",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+4/alt+4-16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+4/alt+4-8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+4/alt+4-quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+4/alt+4-kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/alt+4/alt+4-track.caf"
+                ],
+        "Files": [
+            "alt+4-16th+shaker.caf",
+            "alt+4-8th+tambo.caf",
+            "alt+4-quarter+click.caf",
+            "alt+4-kit.caf",
+            "alt+4-track.caf"
+        ]
+    },
+    {
+        "Section": "Dance",
+        "LoopName": "Dance 1",
+        "BPM":"88 bpm",
+        "Icon":"Dance",
+        "CustomIconUrl": "",
+        "SubscriptionRequired": true,
+                "DownloadUrls": [
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/dance+1/dance+1-16th+shaker.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/dance+1/dance+1-8th+tambo.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/dance+1/dance+1-quarter+click.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/dance+1/dance+1-kit.caf",
+                "https://drumed-deployments-mobilehub-1294664040.s3-eu-west-1.amazonaws.com/dance+1/dance+1-track.caf"
+                ],
+        "Files": [
+            "dance+1-16th+shaker.caf",
+            "dance+1-8th+tambo.caf",
+            "dance+1-quarter+click.caf",
+            "dance+1-kit.caf",
+            "dance+1-track.caf"
+        ]
+    }
+]
